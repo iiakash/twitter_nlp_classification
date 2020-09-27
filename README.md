@@ -14,6 +14,6 @@ This is the repository of a small project to classify twitter comments into posi
 | Seaborn   | 0.9.0   |
 | Sklearn   | 0.21.3    |
 | Matplotlib| 3.2.1   |
-| Wordcloud  1.8.0 |
+| Wordcloud  | 1.8.0 |
 
 The code was written and tested on Python 3.7
