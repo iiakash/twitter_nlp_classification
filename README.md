@@ -1,4 +1,4 @@
-# twitter_nlp_classification
+# Twitter Sentiment Analysis using Naive-Bayes Classifier
 Classification of twitter sentiment analysis data using Naive-Bayes Classifier.
 
 ## Overview
